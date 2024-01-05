@@ -1,4 +1,0 @@
-https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
-https://www.kaggle.com/code/mrisdal/exploring-survival-on-the-titanic
-https://www.kaggle.com/code/startupsci/titanic-data-science-solutions
-https://www.kaggle.com/code/omarelgabry/a-journey-through-titanic
